@@ -7,7 +7,7 @@
         "height": 500
     },
     "image": { 
-        "src": "Images/Sun.png",
+        "src": "Images/Moon.png",
         "name": "sun1",
         "hOffset": 250,
         "vOffset": 250,
